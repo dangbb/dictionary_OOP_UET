@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe2850c1-b89e-4896-84be-80ceddf42dbe" name="Default Changelist" comment="Check if it run or not" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hupbNs4LyrMw1CFW0XJ1vQQds9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="ToolWindow" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="459" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="256" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/json-simple-1.1.jar/json-simple-1.1.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.DictionaryGUI">
+    <configuration name="AddGUI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddGUI" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeGUI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChangeGUI" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectionUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConnectionUtils" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeleteGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteGUI" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryGUI" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DictionaryGUI" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLSetup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SQLUtils.SQLSetup" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SQLUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextTranslator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextTranslator" />
+      <module name="Hello" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Translate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TranslateAPI.Translate" />
+      <module name="Hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TranslateAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TextTranslator" />
+        <item itemvalue="Application.Translate" />
+        <item itemvalue="Application.SQLSetup" />
+        <item itemvalue="Application.ConnectionUtils" />
+        <item itemvalue="Application.DeleteGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe2850c1-b89e-4896-84be-80ceddf42dbe" name="Default Changelist" comment="" />
+      <created>1600870902573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600870902573</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Check if it run or not">
+      <created>1601819320245</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601819320245</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Check if it run or not" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check if it run or not" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1602335641012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1602335641012" />
+    <state x="730" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602175020676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602175020676" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1602340813895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602340813895" />
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1601007347629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="309" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601007347629" />
+    <state x="681" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602253258008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="208" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602253258008" />
+    <state x="98" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601129048369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="98" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601129048369" />
+    <state x="834" y="404" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff" timestamp="1600871695514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="834" y="404" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff/0.0.1920.1040@0.0.1920.1040" timestamp="1600871695514" />
+    <state x="848" y="250" key="FileChooserDialogImpl" timestamp="1602335637784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="848" y="250" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602335637784" />
+    <state x="784" y="421" key="Github.CreateGistDialog" timestamp="1601819964637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="421" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601819964637" />
+    <state width="1877" height="238" key="GridCell.Tab.0.bottom" timestamp="1602342493138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602342493138" />
+    <state width="1877" height="238" key="GridCell.Tab.0.center" timestamp="1602342493138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="238" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602342493138" />
+    <state width="1877" height="238" key="GridCell.Tab.0.left" timestamp="1602342493138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="238" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602342493138" />
+    <state width="1877" height="238" key="GridCell.Tab.0.right" timestamp="1602342493138">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="238" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602342493138" />
+    <state width="1877" height="246" key="GridCell.Tab.1.bottom" timestamp="1602177077691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="246" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602177077691" />
+    <state width="1877" height="246" key="GridCell.Tab.1.center" timestamp="1602177077691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="246" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602177077691" />
+    <state width="1877" height="246" key="GridCell.Tab.1.left" timestamp="1602177077691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="246" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602177077691" />
+    <state width="1877" height="246" key="GridCell.Tab.1.right" timestamp="1602177077691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="246" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602177077691" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1601993647438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601993647438" />
+    <state x="521" y="267" key="caller.chooser.dialog" timestamp="1602171192026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="521" y="267" key="caller.chooser.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602171192026" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601819443843">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601819443843" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1601819842664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601819842664" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601820078067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601820078067" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601820081584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601820081584" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hello$DictionaryGUI.ic" NAME="DictionaryGUI Coverage Results" MODIFIED="1601819594641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
