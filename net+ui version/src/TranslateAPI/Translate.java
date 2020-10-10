@@ -8,7 +8,7 @@ import com.squareup.okhttp.*;
 import org.json.simple.*;
 
 public class Translate {
-    private final static String subscriptionKey = "470755ce80f248d0810f7f7c94236608";
+    private final static String subscriptionKey = "YOUR_AZURE_KEY";
 
     HttpUrl url = new HttpUrl.Builder()
             .scheme("https")
