@@ -13,7 +13,7 @@ Need these libraries to run properly :3 :
   - okio-1.6.0
   - okhttp-2.7.5 
   - json-simple-1.1
-  / All below libaries are included from free tts
+All below libaries are included from free tts
   - cmu_time_awb 
   - cmu_us_kal
   - en_us
