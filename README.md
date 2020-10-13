@@ -7,19 +7,19 @@ Add some java doc convention.
 
 ## Necessity: 
 Need these libraries to run properly :3 :
-  sqljdbc42
-  jsoup-1.13.1
-  gson-2.8.2 
-  okio-1.6.0
-  okhttp-2.7.5 
-  json-simple-1.1
+  - sqljdbc42
+  - jsoup-1.13.1
+  - gson-2.8.2 
+  - okio-1.6.0
+  - okhttp-2.7.5 
+  - json-simple-1.1
   / All below libaries are included from free tts
-  cmu_time_awb 
-  cmu_us_kal
-  en_us
-  freetts-jsapi10
-  freetts
-  mbrola (not necessary)
+  - cmu_time_awb 
+  - cmu_us_kal
+  - en_us
+  - freetts-jsapi10
+  - freetts
+  - mbrola (not necessary)
 
 ## How to use ?
 Run the DictionaryGUI.java file to execute the Dictionary.
