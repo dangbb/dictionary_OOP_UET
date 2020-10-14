@@ -27,3 +27,6 @@ Run the DictionaryGUI.java file to execute the Dictionary.
 
 ## Text Translator issue
 Can't run Text Translator, since you need an Microsoft Azure key to use Microsoft Translator API
+
+## Word pronunciation issue 
+Because the audio folder is too large and might cause lag when open Intellj, I won't combine it in project. You have to download it, then using load data method to bind it. Or using pronunciation in text Translator (although it sound super unatural :( ).
