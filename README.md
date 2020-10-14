@@ -1,6 +1,8 @@
 # dictionary_OOP_UET
 Big Project, from FA boii, Students: Ngo Hai Dang and Pham Anh Dung
 
+<img src="./Untitled.png">
+
 
 Just publish ultra super final version a few minutes ago (It's 10:37 PM 13/10/2020 now).
 Add some java doc convention.
